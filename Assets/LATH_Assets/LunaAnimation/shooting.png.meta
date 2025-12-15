@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,7 +103,805 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: shooting_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1401
+        width: 218
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cc7d2ccff686244b03ab0f46309f49
+      internalID: 981572396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_1
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1401
+        width: 215
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f071c5f2692d2824e98c8aaef8ea572a
+      internalID: -176142964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_2
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1401
+        width: 220
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e664d0a17b17f84a93c66a614665c1a
+      internalID: -1561032381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_3
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1401
+        width: 229
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780e3274c8dbba64482dcf3edb09b39c
+      internalID: -1192042210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_4
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1401
+        width: 227
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3224ebdc99ba0c46a76206ca809976b
+      internalID: 876103217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_5
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 1401
+        width: 253
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83a65d1e9d35c648af47c3aef2bc608
+      internalID: 1258087183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1124
+        width: 295
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52123c74d6fa401429fba6c09410c04c
+      internalID: 1974021375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1124
+        width: 322
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef730e37a27be784db74c57393d5d3da
+      internalID: 1709788628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_8
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1124
+        width: 335
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ee14cb25514b844982ef3480f74b0b
+      internalID: 59667758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_9
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1124
+        width: 334
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bd3b114396bb74186dd4dcb086e2fc
+      internalID: -1831536920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_10
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1124
+        width: 333
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b974d7354c8eaff4f9184736ee189a9f
+      internalID: -426269138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_11
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1124
+        width: 334
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214ec33977698c546bfa21b3918bde81
+      internalID: -1234832358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_12
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 845
+        width: 343
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008d2518b9ef9ba49a861b481fc4f762
+      internalID: -1723099249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_13
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1102
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff914b9b1e79a84ab295cf716e2e234
+      internalID: 633111693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 409
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07830a49209d8d14f897b333a0f26fa0
+      internalID: -1658676149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_15
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 845
+        width: 343
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a4f9b17dc0a0d43b9be730962b5dc5
+      internalID: 670001906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_16
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 845
+        width: 343
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c74ca21eb058144bc6cd3e05a24dc3
+      internalID: -380164010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_17
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 845
+        width: 342
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8b412c2be1ed546ad51238408966b8
+      internalID: -59391785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_18
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 845
+        width: 341
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab9687471d41c34bb64a41a7fa343ee
+      internalID: -23721384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_19
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 568
+        width: 342
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c83d8310384934a8c12232d0e09600
+      internalID: 72766786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_20
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 568
+        width: 338
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149fcdb004f249148b93213c08dbb89d
+      internalID: 936831709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_21
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 823
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db197408c3b3824d82133b50bc9157d
+      internalID: 280021063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_22
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 568
+        width: 342
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02cc61a58f10fc4ebf4f62a182fd966
+      internalID: -1969568480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_23
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 568
+        width: 342
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37130a7625aac45af7abba39232b70
+      internalID: 307101648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_24
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 568
+        width: 337
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70706668aa546404d845d76c72969599
+      internalID: -597621033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_25
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 568
+        width: 336
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a58511d4416f941b501d70445d837a
+      internalID: -1092399961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 289
+        width: 337
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bb8a0166b6cef43b88dc12656490f2
+      internalID: -414601127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_27
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 289
+        width: 337
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b522584338b234eb600ccee911a2bb
+      internalID: 479883593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_28
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 289
+        width: 343
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47744e1595085be4390cead955f9cb6a
+      internalID: 125823575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_29
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 289
+        width: 340
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6073d538017202f419f99dd49c7acbfb
+      internalID: 1391113762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_30
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 289
+        width: 340
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d4c74e0b44b614a875d85a4a1eb225
+      internalID: 633089737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_31
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 289
+        width: 326
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d848c48d9b8f2ff49b88c00cb11de328
+      internalID: 121207246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 12
+        width: 318
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415f513afd5421a49b939af7ce198d9f
+      internalID: -839736830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_33
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 12
+        width: 284
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6f68e946f3d843bfa9ba7f85459a4
+      internalID: -84210001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_34
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 12
+        width: 250
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2916078f25a7570448431d4e9cb72a5c
+      internalID: -845324699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_35
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 12
+        width: 225
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b589cb3198c3e64ea07a0efc8511c46
+      internalID: -1280287410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_36
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 12
+        width: 214
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1fb037bbcd4aa4fa134c398bea4457
+      internalID: 586745876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shooting_37
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 12
+        width: 220
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d086b45706fdd8d409fc875fcec8a391
+      internalID: -1853266419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +912,45 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      shooting_21: 280021063
+      shooting_3: -1192042210
+      shooting_7: 1709788628
+      shooting_23: 307101648
+      shooting_11: -1234832358
+      shooting_0: 981572396
+      shooting_34: -845324699
+      shooting_16: -380164010
+      shooting_27: 479883593
+      shooting_22: -1969568480
+      shooting_30: 633089737
+      shooting_31: 121207246
+      shooting_1: -176142964
+      shooting_25: -1092399961
+      shooting_15: 670001906
+      shooting_6: 1974021375
+      shooting_9: -1831536920
+      shooting_18: -23721384
+      shooting_13: 633111693
+      shooting_29: 1391113762
+      shooting_36: 586745876
+      shooting_4: 876103217
+      shooting_12: -1723099249
+      shooting_2: -1561032381
+      shooting_17: -59391785
+      shooting_20: 936831709
+      shooting_32: -839736830
+      shooting_19: 72766786
+      shooting_14: -1658676149
+      shooting_35: -1280287410
+      shooting_24: -597621033
+      shooting_5: 1258087183
+      shooting_26: -414601127
+      shooting_10: -426269138
+      shooting_8: 59667758
+      shooting_33: -84210001
+      shooting_28: 125823575
+      shooting_37: -1853266419
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

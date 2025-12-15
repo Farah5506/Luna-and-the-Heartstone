@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: e4735237f3f87754a942e4040e327afa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SasspurrCat_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1625
+        width: 163
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443401f027ce44409cc351beca8386f
+      internalID: -1806121258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1613
+        width: 166
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74ae4458d3b4e84bb78ee3a49ad7524
+      internalID: -1052240492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1614
+        width: 167
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96535e79cf6da354fb08f8f6a859d8b6
+      internalID: -1671605080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_3
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1613
+        width: 168
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93a943a3f0eb6488aadb9320865eda
+      internalID: 409717191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_4
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1638
+        width: 184
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147e8f7e408b5e41b5977e6f4e2c055
+      internalID: 1703153356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_5
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1654
+        width: 199
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a98a0bc6f61dd4ba817a4db2558389
+      internalID: 2067837977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1374
+        width: 213
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b09fdf5d60acf4e9cc7cef2575965d
+      internalID: 1033160123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1370
+        width: 212
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f751e74376688244cad279ed921dcd6d
+      internalID: 75819553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_8
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1367
+        width: 205
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa94553127f465641a801d33e33477c8
+      internalID: -1191382798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_9
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1358
+        width: 169
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89127ab392292241a4f34135dfd5e1a
+      internalID: -112930155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_10
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1353
+        width: 172
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9926911d4dc2e884191d9d6a05efb346
+      internalID: 130622860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_11
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1339
+        width: 191
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238e6959498ef704c86b144dd352c874
+      internalID: -1471927873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 994
+        width: 203
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b825b8d575d71b428ba3a582e655f25
+      internalID: -1205661729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 970
+        width: 184
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d77345284510d04583dac2fa6a8c2e0
+      internalID: 816816053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_14
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 965
+        width: 166
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a83f59eae6d5804cafebd4c350175a4
+      internalID: 284051807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 961
+        width: 143
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf23414611497a9478e624715a3b1e60
+      internalID: -1816862792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_16
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 966
+        width: 143
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac0931510e69a419b5943ac54f1a07
+      internalID: -1941605785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_17
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 986
+        width: 144
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851032e0bd8fd7f4d89cdef379b92748
+      internalID: -186002091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 687
+        width: 153
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe0235ddcb9a434a908f21ff7f7ec4d
+      internalID: 442680313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 726
+        width: 168
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152265c7704d02d4d905618c93ef5807
+      internalID: -278354502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_20
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 726
+        width: 164
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee5ad47c19b9b479cf894a24b10806
+      internalID: 18732550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_21
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 722
+        width: 148
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b675c873b5029445ac32e8e5876c09a
+      internalID: 1475687365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_22
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 717
+        width: 147
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89002d12410ab324689e93fd6a7f00c4
+      internalID: -1862222252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_23
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 686
+        width: 150
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97199cfe9ac9f74280e819a6b124cce
+      internalID: 45298073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 333
+        width: 151
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83f55eab7e3abe4ea14a6f16a087b79
+      internalID: -114572328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_25
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 334
+        width: 167
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8e8b893ff96e042922aa206c91dd6c
+      internalID: 1793294763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_26
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 358
+        width: 203
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acbb9e95302ed542a513a712361ca31
+      internalID: 1768758321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_27
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 390
+        width: 219
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30828779471ad641917646941b96ca9
+      internalID: 1220443475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_28
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 390
+        width: 220
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac36dc530602955498536c797f2393c8
+      internalID: 135384800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_29
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 390
+        width: 218
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd15b2cdbff5604b8f0533ecba53309
+      internalID: 2100809559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 200
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b343268c1002164482eb60a9351bcb3
+      internalID: -330579563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_31
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 63
+        width: 207
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3755353fcd8ee394e80ba7b6bdce666a
+      internalID: 1170805590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_32
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 11
+        width: 170
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eadb7bfb951469449411addecaa8387
+      internalID: 616841775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_33
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1
+        width: 139
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a639f75715cbdf14194ff592089d894a
+      internalID: -2039141298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_34
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 6
+        width: 140
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b378ac994b4fb479824ea14b4fe82d
+      internalID: 322781182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SasspurrCat_35
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 14
+        width: 146
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7aaee2f9c5d64488cb3447d6e1b4b3
+      internalID: 1076534319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SasspurrCat_16: -1941605785
+      SasspurrCat_23: 45298073
+      SasspurrCat_3: 409717191
+      SasspurrCat_30: -330579563
+      SasspurrCat_12: -1205661729
+      SasspurrCat_31: 1170805590
+      SasspurrCat_28: 135384800
+      SasspurrCat_19: -278354502
+      SasspurrCat_0: -1806121258
+      SasspurrCat_5: 2067837977
+      SasspurrCat_24: -114572328
+      SasspurrCat_2: -1671605080
+      SasspurrCat_4: 1703153356
+      SasspurrCat_6: 1033160123
+      SasspurrCat_29: 2100809559
+      SasspurrCat_7: 75819553
+      SasspurrCat_34: 322781182
+      SasspurrCat_18: 442680313
+      SasspurrCat_32: 616841775
+      SasspurrCat_33: -2039141298
+      SasspurrCat_20: 18732550
+      SasspurrCat_10: 130622860
+      SasspurrCat_13: 816816053
+      SasspurrCat_22: -1862222252
+      SasspurrCat_26: 1768758321
+      SasspurrCat_27: 1220443475
+      SasspurrCat_9: -112930155
+      SasspurrCat_11: -1471927873
+      SasspurrCat_25: 1793294763
+      SasspurrCat_17: -186002091
+      SasspurrCat_8: -1191382798
+      SasspurrCat_35: 1076534319
+      SasspurrCat_21: 1475687365
+      SasspurrCat_14: 284051807
+      SasspurrCat_15: -1816862792
+      SasspurrCat_1: -1052240492
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

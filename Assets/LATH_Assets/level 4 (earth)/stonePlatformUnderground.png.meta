@@ -1,0 +1,1355 @@
+fileFormatVersion: 2
+guid: ca9c7f8f8129b3148ba4745193a9e54a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stonePlatformUnderground_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 454
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b58fefdb8be1947b4f4f9b54095800
+      internalID: 738578612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 454
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4258530c4c5de224b9508cd76ccd7e02
+      internalID: 1164924041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 454
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8126e7df55e7a046a3046835044d771
+      internalID: -741877305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 454
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bcd219bbb4be44fbf96f90ab03e7ff
+      internalID: 1793322894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 454
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b76d9a7aa181354ba44cb03460d4fcf
+      internalID: -1403672085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 454
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007fd1af200cc62459aae3d68e386c90
+      internalID: 1115452971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 454
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2505ee9abf0c6847bdebff21a149055
+      internalID: 477566190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 390
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ddf255242d3e74b870f559c9a008b1
+      internalID: -1915142427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 390
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b8385bc27755d459fcaff36f77863e
+      internalID: -1265132339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 390
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4878c787e84c24549bd3cec3add2f473
+      internalID: -1396735851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 390
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e38d1519373494ebf2c0dca62fe527
+      internalID: 1348736872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 390
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37573691313532044af9fb37744c6dd0
+      internalID: -659106601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 390
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c86872df55eddf4eaeda8c7e66c835e
+      internalID: -1239603185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 390
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f612f3127997c47bb612b1ba8ab294
+      internalID: 311945560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 326
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ca0ff0b6bda5540be4a8dbc9b8f7b0
+      internalID: -367235182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 326
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614e8a297b437b43b1e79c80dcd4fbf
+      internalID: -1010363622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 326
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3034335a174de0a408e2872799fadc40
+      internalID: 191401567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 326
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4974683506331de41bfc8564d75c012d
+      internalID: 321962268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_18
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 326
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f362a075971b944988740c07a3297b
+      internalID: 1130547877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 326
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f1cb2e932eccc4cabfbb538ec2b157
+      internalID: 89719509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_20
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 326
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bbc7feaba114e44b15ecb5d2ca598b
+      internalID: -1586417788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4930a09a6638a408779a90c2bd0098
+      internalID: 1380634678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a447dbeb99cb05e48b1b43d51fb18dcf
+      internalID: 1999721226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078efd51f6aef974cbe508619fe5ab39
+      internalID: -2141591334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8590910d3d6a24d8a80118f6f7ec12
+      internalID: -2078026932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0c691a2082b6641bb3e4c63d02bc8b
+      internalID: -871027987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119aee23dd74c447b349ffc5b887488
+      internalID: 1105024513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d98212aada33b248b1f25ec3a53890f
+      internalID: -1535590727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 206
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35439f34afb576c41b8b48a5b412f713
+      internalID: -1043605069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 206
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9146869daebe44ab89d15a27e1d929
+      internalID: -317145671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 206
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c702f5a044b024380beee830a7a74b
+      internalID: 1487294666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 209
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6aa5b5c1da004ca4821e4bb4132f6
+      internalID: -677766994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 199
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1182cd956ca9ad14dadc03b06084ebb8
+      internalID: -1723076532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_33
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 199
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55fbab70318e4b42a525c4ff960d541
+      internalID: 982396455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_34
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 199
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f197e52390e94b98ae8ed2beb3696
+      internalID: -877848677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 135
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf4997babb81e249896026de1f87304
+      internalID: 1731442528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 135
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792522465f4f5e14086da99d45a7d986
+      internalID: 63026010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 135
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f6d666d47060047b2d4718bafb91ad
+      internalID: 828940516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 135
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d3c28e966d24649849f22461e432be
+      internalID: 368937321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_39
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 135
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4344177c63ad7469aa809cbd6c979b
+      internalID: -48648882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 135
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d6bf994ba07054bb25c589f55d35cd
+      internalID: -785199516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_41
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 135
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b002b06604c3884fb1992f3f1fb4db7
+      internalID: 100009042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 75
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc905702ec8c40e43bb69e3b5dab0511
+      internalID: -834286083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 75
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52c30461df62fd44976d8546a554d70
+      internalID: 821906396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_44
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 75
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7fb96d4bf024d408084e5af4ec1740
+      internalID: 451280103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 75
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985c1af9ed3ce944ba80d5927d4fc575
+      internalID: -752624797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_46
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 75
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dff151b264738d4187cc3cd67583cc4
+      internalID: 764988255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 75
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807574aec808144ebfb9f7a66071de3
+      internalID: 469512058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_48
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 75
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4abd8c13bbfac46905c559ab98348e
+      internalID: -1398867576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_49
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b07a542c0f23db4c8fe444b9c18f393
+      internalID: -160327801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 14
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceda56791070106439ea74ceb35ea2d8
+      internalID: 1615891833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_51
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 14
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852817e708e18974d8a3d0b84d942230
+      internalID: -1127999675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 14
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1f161c34f547b48bbefc1833ed4e56
+      internalID: 1928895617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_53
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 14
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef288c4c5aaf024459b668256cd085c0
+      internalID: 302450188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 14
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043e69dcc4c1e314599909edb1abcf1a
+      internalID: 2079537390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stonePlatformUnderground_55
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 14
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96ed20a0fe2c8844a17de5f41299b39
+      internalID: -1929895022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stonePlatformUnderground_50: 1615891833
+      stonePlatformUnderground_32: -1723076532
+      stonePlatformUnderground_9: -1396735851
+      stonePlatformUnderground_46: 764988255
+      stonePlatformUnderground_40: -785199516
+      stonePlatformUnderground_44: 451280103
+      stonePlatformUnderground_26: 1105024513
+      stonePlatformUnderground_12: -1239603185
+      stonePlatformUnderground_5: 1115452971
+      stonePlatformUnderground_13: 311945560
+      stonePlatformUnderground_29: -317145671
+      stonePlatformUnderground_14: -367235182
+      stonePlatformUnderground_45: -752624797
+      stonePlatformUnderground_47: 469512058
+      stonePlatformUnderground_23: -2141591334
+      stonePlatformUnderground_10: 1348736872
+      stonePlatformUnderground_31: -677766994
+      stonePlatformUnderground_36: 63026010
+      stonePlatformUnderground_53: 302450188
+      stonePlatformUnderground_25: -871027987
+      stonePlatformUnderground_8: -1265132339
+      stonePlatformUnderground_17: 321962268
+      stonePlatformUnderground_18: 1130547877
+      stonePlatformUnderground_41: 100009042
+      stonePlatformUnderground_6: 477566190
+      stonePlatformUnderground_34: -877848677
+      stonePlatformUnderground_48: -1398867576
+      stonePlatformUnderground_55: -1929895022
+      stonePlatformUnderground_22: 1999721226
+      stonePlatformUnderground_38: 368937321
+      stonePlatformUnderground_43: 821906396
+      stonePlatformUnderground_16: 191401567
+      stonePlatformUnderground_33: 982396455
+      stonePlatformUnderground_4: -1403672085
+      stonePlatformUnderground_7: -1915142427
+      stonePlatformUnderground_27: -1535590727
+      stonePlatformUnderground_19: 89719509
+      stonePlatformUnderground_51: -1127999675
+      stonePlatformUnderground_28: -1043605069
+      stonePlatformUnderground_52: 1928895617
+      stonePlatformUnderground_49: -160327801
+      stonePlatformUnderground_1: 1164924041
+      stonePlatformUnderground_3: 1793322894
+      stonePlatformUnderground_37: 828940516
+      stonePlatformUnderground_11: -659106601
+      stonePlatformUnderground_54: 2079537390
+      stonePlatformUnderground_15: -1010363622
+      stonePlatformUnderground_21: 1380634678
+      stonePlatformUnderground_30: 1487294666
+      stonePlatformUnderground_20: -1586417788
+      stonePlatformUnderground_39: -48648882
+      stonePlatformUnderground_42: -834286083
+      stonePlatformUnderground_0: 738578612
+      stonePlatformUnderground_2: -741877305
+      stonePlatformUnderground_24: -2078026932
+      stonePlatformUnderground_35: 1731442528
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
