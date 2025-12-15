@@ -3,19 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-<<<<<<< HEAD
-  - Foreground
-=======
   - Ground
->>>>>>> 7cd87dcae5c589aed1bdf79da59c45fbdebad908
   - Water
   - UI
-  - Platform
+  - 
   - 
   - 
   - 
@@ -45,17 +42,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-<<<<<<< HEAD
-  - name: Foreground
-    uniqueID: 1538203989
-    locked: 0
-  - name: MudEnemy
-    uniqueID: 2290197149
-=======
-  - name: foreground
-    uniqueID: 2966352285
-    locked: 0
   - name: background
-    uniqueID: 2555920777
->>>>>>> 7cd87dcae5c589aed1bdf79da59c45fbdebad908
+    uniqueID: 4170738587
+    locked: 0
+  - name: foreground
+    uniqueID: 3975812643
     locked: 0
